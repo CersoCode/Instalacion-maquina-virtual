@@ -16,7 +16,7 @@
 #### Material entregable
 ```
 Captura de pantalla donde se observe la pantalla principal de VirtualBox con todas las características de la máquina que acabas de crear.
-Captura de pantella que muestra la MV funcionando
+Captura de pantalla que muestra la MV funcionando
 ```
 
 
